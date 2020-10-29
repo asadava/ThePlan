@@ -1,2 +1,2 @@
-# ThePlan
-The plan you have been waiting for.
+# Flashplace
+Welcome to Flashplace.
